@@ -1,4 +1,4 @@
-# Academia-Vault-Backend
+<img width="1907" height="1032" alt="Screenshot 2026-02-15 125152" src="https://github.com/user-attachments/assets/71688ee8-306f-4951-8c93-7109ee505977" /># Academia-Vault-Backend
 
 # Database Architecture
 
