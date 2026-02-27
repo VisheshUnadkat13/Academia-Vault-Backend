@@ -10,6 +10,12 @@
 <img width="784" height="1680" alt="updated Academia Vault Architectre" src="https://github.com/user-attachments/assets/3a9cb049-2d6f-4781-a9ed-d39377923774" />
 
 
+
+
+
+
+
+
 🎓 Academia Vault
 
 A fun full-stack academic resource platform built to refine backend, database, and frontend fundamentals using Spring Boot and React.js.
